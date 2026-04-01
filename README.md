@@ -3,7 +3,7 @@ CI filière INFO 2A ENSEIRB-MATMECA
 
 Lien du lab 1 : https://filesender.renater.fr/?s=download&token=eec6c55a-264a-40d5-a039-bc2768a1921d
 
-Lien du lab 2 : https://filesender.renater.fr/?s=download&token=2a4559a7-fbe1-4383-81ac-18563aaba960
+Lien du lab 2 (actualisé 31 mars): https://filesender.renater.fr/?s=download&token=fb23208a-a9a2-4cbe-9246-2e097aaed79d
 
 
 L’objectif global est de faire découvrir aux étudiants la cybersécurité à travers un parcours mêlant notions théoriques et mises en pratique, avec des séances qui alternent des activités de type red team (attaque) et blue team (défense) :
